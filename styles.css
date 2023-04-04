@@ -1,0 +1,83 @@
+.home_container {
+    text-align: center;
+    padding: 30px;
+    border: 5px solid #04048c;
+    border-radius: 25px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.tikka_container {
+    text-align: left;
+    padding: 30px;
+    border: 5px solid #04048c;
+    border-radius: 25px;
+}
+
+.tikka_title{
+    text-align: center;
+}
+
+.ris_title{
+    text-align: center;
+}
+
+.ris_container {
+    text-align: left;
+    padding: 30px;
+    border: 5px solid #04048c;
+    border-radius: 25px;
+}
+
+.ris_intro{
+    display: flex;
+    justify-content: center;
+}
+
+.ris_intro_img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.ris_intro_text{
+    display: block;
+}
+
+.ris_ingredients {
+    margin-top: 0;
+    display:flex;
+    justify-content: center;
+}
+
+h3 {
+    margin-bottom: 0;
+    text-align: center;
+    border-bottom: 4px solid #04048c;
+}
+
+.tikka_intro{
+    display: flex;
+    justify-content: center;
+}
+
+.tikka_intro_img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.tikka_intro_text{
+    display: block;
+}
+
+.tikka_ingredients {
+    margin-top: 0;
+    display:flex;
+    justify-content: center;
+}
