@@ -1,1 +1,1 @@
-First Odin Project. Use basic HTML Syntax to develop a recipe website
+First Odin Project. Use basic HTML and CSS Syntax to develop a recipe website. Use Hello Fresh Recipe cards as the inspiration, as I'm not particurally a fan of Hello Fresh's Recipe Layout on the website. 
